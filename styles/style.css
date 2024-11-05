@@ -1,0 +1,50 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+
+}
+
+.imagen {
+    margin-top: 50px;
+    margin-left: 500px;
+    width: 250px;
+    height: 450px;
+    border: 10px solid gray;
+    background-color: burlywood;
+    border-radius: 10px;
+    text-align: center;
+    align-content: center;
+
+}
+
+.nombre {
+    margin-top: -10px;
+    margin-left: 550px;
+    background-color: burlywood;
+    border: 5px solid gray;
+    border-radius: 5px;
+    width: 150px;
+    text-align: center;
+    position: absolute;
+}
+
+.descripcion {
+    background-color: aqua;
+    margin-left: 500px;
+    margin-top: -60px;
+    border-radius: 5px;
+    width: 250px;
+    border: 10px solid gray;
+    
+}
+p {
+    font-family: "Roboto", sans-serif;
+    font-size: 12px;
+}
+h1 {
+    font-size: medium;
+}
+h2 {
+    font-size: 15px;
+}
